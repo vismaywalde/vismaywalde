@@ -2,7 +2,7 @@
 - 🔭 I am currently a third year MnC undergraduate at IIT Ropar. 
 - 🌱: I am interested in Web Development, Competative Programming and fields like AI/ML. 
 - 💻: I am proficient in C, C++, HTML, CSS, JavaScript, Node.js and Express.js.
-- 🌐: Personal Website: https://vismay-waldes-personal-website.netlify.app/ 
+- 🌐: Personal Website: https://vismaywalde.github.io/Personal-Website/ 
 - ✨: Looking forward to collaborating on some amazing projects
 - 🤝: Let's get in touch
 <br><br><a href="https://www.linkedin.com/in/vismay-walde/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
