@@ -24,9 +24,10 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+<br>
+<br>
 [![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)
-<br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=My+GitHub+Stats:)](https://git.io/typing-svg)
 
