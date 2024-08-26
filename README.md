@@ -27,7 +27,8 @@
 
 <br>
 <br>
-[![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)
+
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=My+GitHub+Stats:)](https://git.io/typing-svg)
 
