@@ -11,7 +11,7 @@
 - 🤝: Let's get in touch
 <br><br><a href="https://www.linkedin.com/in/vismay-walde/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="mailto:vismaywalde@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<br>
+<hr>
 <h3>Languages and Tools:</h4><br>
 <p> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
