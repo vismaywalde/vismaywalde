@@ -28,8 +28,8 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=vismaywalde&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=vismaywalde&show_icons=true&theme=dark)       ![vismaywalde's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vismaywalde&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ![vismaywalde's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vismaywalde&theme=dark&hide_border=false) 
 
-![vismaywalde's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vismaywalde&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
