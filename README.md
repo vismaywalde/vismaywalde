@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=Hey+There!!;+I+am+Vismay!;I+make+projects...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=Hey+There+!!;I'm+Vismay;I+make+projects...)](https://git.io/typing-svg)
 
 <!--/* # :wave: Hey There !! I'm <a href = "">**Vismay Walde**</a>*/-->
 - 🔭 I am currently a third year MnC undergraduate at IIT Ropar. 
