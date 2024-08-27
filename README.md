@@ -14,7 +14,7 @@
 <hr>
 <h3>Languages and Tools:</h4><br>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,mysql,html5,css3,javascript,nodedotjs,react,amazonwebservices,bootstrap)]
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,html5,css3,javascript,nodedotjs,react,bootstrap,mysql,amazonwebservices)
 
 <br>
 <br>
