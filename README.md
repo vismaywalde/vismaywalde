@@ -4,7 +4,7 @@
 
 <!--/* # :wave: Hey There !! I'm <a href = "">**Vismay Walde**</a>*/-->
 - 🔭 I am currently a third year MnC undergraduate at IIT Ropar. 
-- 🌱: I am interested in Web Development, Competative Programming and fields like AI/ML. 
+- 🌱: I am interested in fields like Software Development and Data Science. 
 - 💻: I am proficient in C, C++, HTML, CSS, JavaScript, Node.js and Express.js.
 - 🌐: Personal Website: https://vismaywalde.github.io/Personal-Website/ 
 - ✨: Looking forward to collaborating on some amazing projects
