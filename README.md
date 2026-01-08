@@ -17,19 +17,5 @@
 ![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,python,html5,css3,javascript,nodedotjs,react,bootstrap,git,mysql)
 
 <br>
-<br>
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=21F731&center=true&vCenter=true&width=725&height=75&lines=My+GitHub+Stats:)](https://git.io/typing-svg)
-
-<table align='center'>
-  <tr>
-   <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=vismaywalde&show_icons=true&theme=dark" alt="vismaywalde" /> -->
-    <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismaywalde&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="vismaywalde" /></td> -->
-  </tr>
-</table>
-
-<!-- <div align="center"> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vismaywalde&theme=dark&hide_border=false" alt="vismaywalde" /></p> -->
 
